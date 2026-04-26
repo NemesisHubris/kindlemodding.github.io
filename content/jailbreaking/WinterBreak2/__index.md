@@ -20,9 +20,10 @@ Unlike WinterBreak, WinterBreak2 uses the Kindle's built-in Experimental Browser
 - **It works on blastlisted devices** (devices where the Kindle Store exploit has been blocked)
 
 > [!NOTE]
-> WinterBreak2 only works on firmware versions **below 5.16.4**.
+> WinterBreak2 only works on firmware versions **< 5.16.4**.
 > <br/>
-> If your firmware is 5.16.4 or above, you will need to use a different jailbreak method.
+> If your firmware newer than 5.16.4, you will need to use a different jailbreak method.
+> 5.16.4 is not supported, but 5.16.5 may work.
 
 ## Prerequisites
 - You will need a PC
