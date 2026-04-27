@@ -5,6 +5,7 @@ title: Nosebleed
 weight: 5
 slug: index
 kofi: https://ko-fi.com/penguins186
+adfree: true
 ---
 
 # Nosebleed
