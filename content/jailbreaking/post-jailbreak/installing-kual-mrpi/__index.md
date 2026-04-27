@@ -21,6 +21,7 @@ You will need to install KUAL (Kindle Unified Application Launcher) and MRPI (Mo
             <div class="stepContent">
                 <a class="button" href="./kual-mrinstaller-khf.zip">MRPI (for modern devices)</a>
                 <p>This version of MRPI is provided by <a href="https://fw.notmarek.com/khf/">Marek</a></p>
+                <a class="button" href="./kual-mrinstaller.zip">MRPI (for legacy devices - pre-K5)</a>
                 <p class="important">You may need to free up 220 MB of space to install both MRPI and KUAL <a href="#troubleshooting">without issues</a></p>
             </div>
         </div>
