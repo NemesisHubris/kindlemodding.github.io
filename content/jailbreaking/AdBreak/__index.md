@@ -6,6 +6,7 @@ weight: 3
 slug: index
 summary: AdBreak is a Kindle jailbreak for 5.18.1 - 5.18.5.0.1
 kofi: https://ko-fi.com/penguins186
+adfree: true
 ---
 
 # AdBreak
