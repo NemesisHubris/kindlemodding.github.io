@@ -47,6 +47,10 @@ Developer firmware comes with the `/app/tools` folder which contains internal-us
 
 ## Developer Firmware Downloads
 
-[https://hackerdude.tech/vault/kindle-firmwares/scribe_diags/scribe_diags_full_dump.7z](./scribe_diags_full_dump.7z) - Dumped by `Ygjsz`
+`scribe_diags_full_dump.7z` - Dumped by `Ygjsz`
+- [archive.org](https://archive.org/details/scribe_diags_full_dump.7z)
+- [hackerdude.tech](https://hackerdude.tech/vault/kindle-firmwares/scribe_diags/scribe_diags_full_dump.7z)
 
-[https://hackerdude.tech/vault/kindle-firmwares/PW5_dev_firmware/PW5_Dev_5.14.0_3741660014_initialdumpfromlinux.img.xz](PW5_Dev_5.14.0_3741660014_initialdumpfromlinux.img.xz) - Dumped by `scam.net`
+`PW5_Dev_5.14.0_3741660014_initialdumpfromlinux.img.xz` - Dumped by `scam.net`
+- [archive.org](https://archive.org/details/pw-5-dev-5.14.0-3741660014-initialdumpfromlinux.img)
+- [hackerdude.tech](https://hackerdude.tech/vault/kindle-firmwares/PW5_dev_firmware/PW5_Dev_5.14.0_3741660014_initialdumpfromlinux.img.xz)
