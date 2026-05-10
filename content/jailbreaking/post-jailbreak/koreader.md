@@ -114,7 +114,7 @@ _KOReader is a document viewer for E Ink devices. Supported formats include EPUB
     </div>
 </div>
 
-<script>new Guide("guide", "../jailbreak-faq.html", "Jailbreak FAQ");</script>
+<script>new Guide("guide", "what-else.html", "What Else?");</script>
 
 ## Credits
 
